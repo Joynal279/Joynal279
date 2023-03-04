@@ -11,7 +11,7 @@
 ## Languages & Frameworks:
 - UIKit <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 - SwiftUI <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
-- Machine Learning <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
+- Machine Learning <img align="left" alt="swift" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg](https://icons8.com/icon/22858/robot-2)"/>
 - .Net MVC <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 - Javascript <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 - HTML/CSS/Bootstrap <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
