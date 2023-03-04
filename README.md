@@ -9,10 +9,14 @@
 - ⚙ Open Source Believer and Contributor.
 
 ## Languages & Frameworks:
+- Swift
 - UIKit
 - SwiftUI
 - Machine Learning
+- C
+- C#
 - .Net MVC
+- Java
 - Javascript
 - HTML/CSS/Bootstrap
 
