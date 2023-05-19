@@ -19,6 +19,7 @@
 - Java
 - Javascript
 - HTML/CSS/Bootstrap
+- UI/UX
 
 ## Connect
 - [LinkedIn<img align="left" alt="xcodingwithalfian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin] 
